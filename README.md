@@ -5,3 +5,7 @@ train a nural network for classification.
 Mean Squre Error for loss function and use Adam for optimization.
 
 full code is in main.py
+# Requirements
+Python 3.8.16
+
+keras Version: 2.9.0
