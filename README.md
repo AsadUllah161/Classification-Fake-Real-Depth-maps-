@@ -5,6 +5,7 @@ train a nural network for classification.
 Mean Squre Error for loss function and use Adam for optimization.
 
 full code is in main.py
+GAN.ipng gave you map that is close to real depth
 # Requirements
 Python 3.8.16
 
